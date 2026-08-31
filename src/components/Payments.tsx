@@ -14,7 +14,7 @@ interface PaymentFormProps {
 
 const PACKAGES = [
   { label: '1 Lanzada Tobogán', time: 1, price: 4990 },
-  { label: '12 Minutos', time: 12, price: 19990 },
+  { label: '20 Minutos', time: 20, price: 19990 },
   { label: '30 Minutos', time: 30, price: 24990 },
   { label: '1 Hora', time: 60, price: 34990 },
   { label: '2 Horas', time: 120, price: 44990 },
